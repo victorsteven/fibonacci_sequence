@@ -1,6 +1,9 @@
 ### Fibonacci Sequence
 
 #### Clone the project using:
+```.env
+git clone git@github.com:victorsteven/fibonacci_sequence.git
+```
 
 #### Change to the root directory:
 ```.env
